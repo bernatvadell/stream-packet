@@ -19,7 +19,7 @@
     "@types/node": "^12.12.6",
     "@types/ws": "^6.0.3",
     "chai": "^4.2.0",
-    "karma": "^4.4.1",
+    "karma": "^6.3.14",
     "karma-chai": "^0.1.0",
     "karma-chrome-launcher": "^3.1.0",
     "karma-firefox-launcher": "^1.2.0",
